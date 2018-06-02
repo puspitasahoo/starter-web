@@ -12,6 +12,9 @@ Sample website with plenty of files for demos
 
 ## Some more change
 
+## NO Conflict here!!!
+
 ## And some more!!!!
 
 #### And some more too !!!
+############ Hey, I am a conflicting line
